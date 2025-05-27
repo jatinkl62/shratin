@@ -39,7 +39,7 @@ function App() {
                 <Hero />
                 <BrandShowcase />
                 <ProductsGrid title="NEW ARRIVALS" products={newArrivals} />
-                <ProductsGrid title="TOP SELLING" products={topSelling} />
+                <ProductsGrid title="MAJOR SELLING" products={topSelling} />
                 <CategoryGrid />
                 <Testimonials />
               </>
